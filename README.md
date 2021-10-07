@@ -1,4 +1,4 @@
-## Eae Devs eu sou a Luiz "Dudzz"Eduardo, sou programador FullStack!
+## Eae Devs eu sou Luiz "Dudzz" Eduardo, sou programador FullStack!
 <div align="center">
   <a href="https://github.com/Dudzz1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dudzz1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -19,7 +19,8 @@
   <a href="https://instagram.com/dudzz1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/dudzz1" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-eduardo-sp-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Dudzz1/Dudzz1/blob/output/github-contribution-grid-snake.svg)
+  
+ <img align="center" alt="Cobrinha-Game-gif" src="https://github.com/Dudzz1/Dudzz1/blob/output/github-contribution-grid-snake.svg">
+
  
 </div>
