@@ -1,4 +1,4 @@
-## Oiii eu sou a Luiz "Dudzz"Eduardo, sou programador FullStack!
+## Eae Devs eu sou a Luiz "Dudzz"Eduardo, sou programador FullStack!
 <div align="center">
   <a href="https://github.com/Dudzz1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dudzz1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
