@@ -1,4 +1,5 @@
-## Eae Devs eu sou Luiz Eduardo, estou estudando para ser um programador Python e Artificial Inteligence!
+## Eae Devs eu sou Luiz Eduardo.
+Estou estudando para ser um programador Python e Artificial Inteligence!
 <div align="center">
   <a href="https://github.com/Dudzz1">
 </div>
